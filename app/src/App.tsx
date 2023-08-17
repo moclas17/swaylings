@@ -83,23 +83,23 @@ function App() {
         <div >
           <img style={{width:'100%'}}  src={logo} alt="Logo" />
           <div >
-            <h3>Ejercicios Basicos</h3>
+            <h3>Basic</h3>
             <ul>
-              <li onClick={() => onCodeChange(basics.Basic1)}>Ejercicio 1</li>
-              <li onClick={() => onCodeChange(basics.Basic2)}>Ejercicio 2</li>
-              <li onClick={() => onCodeChange(basics.Basic3)}>Ejercicio 3</li>
+              <li onClick={() => onCodeChange(basics.Basic1)}>Exercise 1</li>
+              <li onClick={() => onCodeChange(basics.Basic2)}>Exercise 2</li>
+              <li onClick={() => onCodeChange(basics.Basic3)}>Exercise 3</li>
             </ul>
-            <h3>Ejercicios Intermedios</h3>
+            <h3>Intermediate</h3>
             <ul>
-              <li>Ejercicio 1</li>
-              <li>Ejercicio 2</li>
-              <li>Ejercicio 3</li>
+              <li>Exercise 1</li>
+              <li>Exercise 2</li>
+              <li>Exercise 3</li>
             </ul>
-            <h3>Ejercicios Avanzados</h3>
+            <h3>Advanced</h3>
             <ul>
-              <li>Ejercicio 1</li>
-              <li>Ejercicio 2</li>
-              <li>Ejercicio 3</li>
+              <li>Exercise 1</li>
+              <li>Exercise 2</li>
+              <li>Exercise 3</li>
             </ul>
           </div>
         </div>
