@@ -39,7 +39,7 @@ function App() {
 
   // An error message to display to the user.
   const [drawerOpen, setDrawerOpen] = useState(false);
-  const [editorValue, setEditorValue] = useState(basics.DEFAULT_CONTRACT);
+  const [editorValue, setEditorValue] = useState('');
 
   const onCodeChange = useCallback(
     (code: string) => {
@@ -85,9 +85,9 @@ function App() {
           <div >
             <h3>Ejercicios Basicos</h3>
             <ul>
-              <li onClick={() => setEditorCode(basics.Basic1)}>Ejercicio 1</li>
-              <li onClick={() => setEditorCode(basics.Basic2)}>Ejercicio 2</li>
-              <li onClick={() => setEditorCode(basics.Basic3)}>Ejercicio 3</li>
+              <li onClick={() => onCodeChange(basics.Basic1)}>Ejercicio 1</li>
+              <li onClick={() => onCodeChange(basics.Basic2)}>Ejercicio 2</li>
+              <li onClick={() => onCodeChange(basics.Basic3)}>Ejercicio 3</li>
             </ul>
             <h3>Ejercicios Intermedios</h3>
             <ul>
@@ -124,7 +124,7 @@ function App() {
           updateLog={updateLog}
         />
         <Editor
-          exercise={editorValue}
+          exercise={code}
           code={code}
           onChange={onCodeChange}
           toolchain={toolchain}

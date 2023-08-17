@@ -17,7 +17,7 @@ export interface EditorProps {
 }
 
 function Editor({ code, onChange, toolchain, setToolchain, exercise }: EditorProps) {
-  code = exercise  ;
+  //code = exercise  ;
  
   return (
     <div>

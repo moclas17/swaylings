@@ -40,7 +40,7 @@ export const Basic2 = `script;
 fn main() {
     let number = 6;
 
-    if number % 4 == 0 {
+    if number % 3 = 0 {
         // hacer algo
     } else {
         // hacer otra cosa
