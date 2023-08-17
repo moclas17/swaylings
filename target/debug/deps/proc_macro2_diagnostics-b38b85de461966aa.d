@@ -1,0 +1,10 @@
+/Users/mac03/web3/sway-playground/target/debug/deps/proc_macro2_diagnostics-b38b85de461966aa.rmeta: /Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs /Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs /Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/Users/mac03/web3/sway-playground/target/debug/deps/libproc_macro2_diagnostics-b38b85de461966aa.rlib: /Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs /Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs /Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/Users/mac03/web3/sway-playground/target/debug/deps/proc_macro2_diagnostics-b38b85de461966aa.d: /Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs /Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs /Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs:
+/Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs:
+/Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs:
+/Users/mac03/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs:
